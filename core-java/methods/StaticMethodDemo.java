@@ -1,4 +1,4 @@
-public class methods {
+public class StaticMethodDemo {
     static void myMethod() {
          System.out.println("I got placed in a good company");
     }
